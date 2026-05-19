@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Muhammad 👋
 
-<!--
-**Muhammadali-05/Muhammadali-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior C# / .NET Developer
 
-Here are some ideas to get you started:
+I am learning backend development with C# and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- C#
+- .NET
+- SQL
+- GitHub
+- OOP
+
+### Goals
+- Become a backend developer
+- Work in banking IT systems
+- Build strong real-world projects
+
+### Projects
+Coming soon...
